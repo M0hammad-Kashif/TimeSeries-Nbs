@@ -1,1 +1,1 @@
-# this repo conatian notebook related to time series analysis.
+# this repo contians notebooks related to time series analysis.
